@@ -1,0 +1,7 @@
+{
+  "name": "Bangla Voice Note Assistant",
+  "description": "A powerful Bengali speech-to-text application powered by Web Speech API for real-time transcription and Google Gemini for intelligent grammar correction and translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
